@@ -1,1 +1,1 @@
-# dome-a-s-wave-velocity
+# Dome-A-shear-wave-velocity
